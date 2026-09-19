@@ -2,12 +2,11 @@
 
 ### ☕ Java Developer | DSA | Backend Development | MySQL
 
-I am a passionate developer focused on building reliable software
-and solving problems using Java.
+I am a passionate software developer focused on Java development,
+problem solving, backend engineering, and database-driven applications.
 
-I enjoy working with backend technologies, databases, and
-problem-solving concepts while continuously improving my
-Data Structures and Algorithms skills.
+I enjoy building real-world applications and continuously improving
+my Data Structures & Algorithms and software development skills.
 
 ---
 
@@ -15,20 +14,23 @@ Data Structures and Algorithms skills.
 
 - ☕ Focused on **Java Development**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🌐 Interested in **Backend Development**
+- 🏗️ Interested in **Backend Development**
 - 🗄️ Working with **MySQL & SQL**
-- 🏗️ Building real-world software projects
-- 📚 Continuously learning and improving my problem-solving skills
+- 💻 Building real-world software applications
+- 📚 Continuously improving my problem-solving skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Programming
+### Programming Languages
 Java • Python • JavaScript • C • C++
 
+### Core Java
+OOP • Collections • Exception Handling • Multithreading
+
 ### Backend & Web
-Node.js • Django • PHP • REST APIs
+REST APIs • Node.js • Django • PHP
 
 ### Database
 MySQL • SQL
@@ -41,30 +43,38 @@ Git • GitHub • VS Code • IntelliJ IDEA
 ## 🚀 Featured Projects
 
 ### 🏗️ Construction Management System
+
 A management platform designed to handle construction-related
-operations including projects, employees, inventory and
-procurement.
+business operations and workflows.
 
-**Tech:** Java / Backend / MySQL
-
-### 🤖 Aethon-AI
-An AI-powered assessment platform designed to support
-online assessment and intelligent evaluation.
-
-**Tech:** AI • Web Development • Database
-
-### 🧠 Palash-AI
-An AI-focused application exploring practical applications
-of artificial intelligence.
+**Focus:** Backend Development • Database Management • Business Logic
 
 ---
 
-## 🧠 Problem Solving
+### 🤖 Aethon-AI
 
-Currently strengthening my Data Structures & Algorithms skills
-through consistent problem solving.
+An AI-powered assessment platform designed for online assessments
+and intelligent evaluation.
 
-Topics I am working on:
+**Focus:** AI Applications • Web Development • Database
+
+---
+
+### 🧠 Palash-AI
+
+An AI-focused application exploring practical applications of
+Artificial Intelligence.
+
+**Focus:** AI • Application Development
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+Currently strengthening my problem-solving skills through
+consistent practice.
+
+### Topics
 
 - Arrays
 - Strings
@@ -80,18 +90,25 @@ Topics I am working on:
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Goals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shameem1105&show_icons=true&theme=transparent)
+- Strengthen **Core Java**
+- Master **Data Structures & Algorithms**
+- Learn **Spring Boot**
+- Build production-oriented backend applications
+- Improve SQL and database design
+- Prepare for software engineering placements
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+🔗 **GitHub:** https://github.com/Shameem1105
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shameem1105-black?style=flat&logo=github)](https://github.com/Shameem1105)
+🔗 **LinkedIn:** Add your LinkedIn URL here
+
+📧 **Email:** Add your professional email here
 
 ---
 
-### 💡 "Learn. Build. Solve. Repeat."
+### ☕ Learn. Build. Solve. Repeat.
